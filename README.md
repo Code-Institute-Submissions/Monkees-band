@@ -1,11 +1,11 @@
 
-#The Monkees band website
+# The Monkees band website
 
 Brief: Build a static website for a band. The band is a 1960’s rock band and have around 50 years experience of performing live at numerous events around the world. The band has provided photos of the band members, a video clip and audio clips to showcase on their website. Also, they are in process of creating a social media presence and would like to add links to their Facebook, Twitter and YouTube pages.
 
 Target audience: Fans of the band and potential fans.
 
-###Goals/Requirements:
+### Goals/Requirements:
 * Create a responsive website of around 4-5 pages or one scrolling page with separate page areas.
 * Incorporate main navigation and grid layout.
 * Use semantic HTML5 elements.
@@ -15,9 +15,9 @@ Target audience: Fans of the band and potential fans.
 * Use Git and GitHub for version control.
 * Deploy the final version to GitHub Pages.
 
-##UX
+## UX
 
-###User stories
+### User stories
 
 Before developing website, the several user stories were created to achieve goals of the project. 
 
@@ -28,13 +28,13 @@ Before developing website, the several user stories were created to achieve goal
 * “As a potential concert booker, I want  to see schedule of upcoming concerts and  book concert tickets.”
 
 
-##Features
+## Features
 
 - HTML 5 - allows users to watch video and listen to the bands music. 
 - Bootstrap - ???
 
 
-##Built With
+## Built With
 
 * Google Docs- For writing User Stories and other technical specifications relevant to the project. 
 
@@ -49,19 +49,19 @@ Before developing website, the several user stories were created to achieve goal
 * GitHub - For hosting website’s demo online. 
 
 
-##Testing
+## Testing
 
-##Deployment
+## Deployment
 
 The website has been deployed to GitHub Pages and can be found at: 
 
 
-##Credits
+## Credits
 
-###Content 
+### Content 
 The text for ‘Band’ section was copied from the Wikipedia article.
 
-###Media
+### Media
 The media files used at this website were provided by the client.
 
 
