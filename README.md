@@ -31,7 +31,8 @@ Before developing website, the several user stories were created to achieve goal
 ## Features
 
 - HTML 5 - allows users to watch video and listen to the bands music. 
-- Bootstrap - ???
+- Bootstrap & CSS - for creating page grid and styling.
+- JavaScript & jQuery - allows users to book tickets to the concerts using JS modal.
 
 
 ## Built With
@@ -48,21 +49,45 @@ Before developing website, the several user stories were created to achieve goal
 
 * GitHub - For hosting website’s demo online. 
 
+* JS & jQuery - For interactivity.
+
 
 ## Testing
 
+- Firefox Quantum 63.0.3 (64-bit) DevTools (responsibility tests)
+- Google Chrome Version 70.0.3538.102 (Official Build) (64-bit)
+- Safari Version 12.0 (14606.1.36.1.9)
+
+**Android**
+Galaxy S9/S9+ 360x740
+Galaxy Note 3 360x640
+Galaxy Note 9 414x846
+
+**iOS**
+iPad landscape mode 1024x768
+iPhone 6/7/8 Plus 414x736
+iPhone X/XS 375x812
+
+**Laptop**
+Laptop with HiDPI screen 1440x900
+Laptop with touch 1280x950
+
+- W3C CSS Validation Service (https://jigsaw.w3.org/css-validator/)
+
+- W3C Markup Validation Service (https://validator.w3.org/)
+
 ## Deployment
 
-The website has been deployed to GitHub Pages and can be found at: 
+The website has been deployed to [GitHub Pages](https://anasommer.github.io/Monkees-band/).
 
 
 ## Credits
 
 ### Content 
-The text for ‘Band’ section was copied from the Wikipedia article.
+The text for ‘Band’ section was copied from the [Wikipedia articles](https://en.wikipedia.org/wiki/The_Monkees).
 
 ### Media
-The media files used at this website were provided by the client.
+The media files used at this website were provided by the client/found at [YouTube](https://www.youtube.com/)
 
 
 
